@@ -1,6 +1,5 @@
 from random import randrange
 
-
 class Worker():
 
     def __init__(self, first_name: str, last_name: str, destination: int):
